@@ -11,6 +11,7 @@ Put this in a .bat file and run it when you want to restart:
   > pause  
   > shutdown /r /t 0  
   ![](./files/refreshWin.bat)
+
   To download if you are too lazy (You are safe, do not worry): Go to "Code" (Green), then "Download ZIP" It will be in files\refreshWin.bat
 
 # Have the personalization back on control panel:
