@@ -50,7 +50,7 @@ Change **"LockScreenImage"** = whatever path you want, put it quotes
 **"SystemUsesLightTheme"** = 0  
 **"SpecialColor"** = 00010101  
 
-* Changes color of the window title bar   
+* Customize color of the window title bar   
   1. \[HKEY\_CURRENT\_USER\\Control Panel\\Desktop\]    
 **"AutoColorization"** = 0   
   2. Below are my settings. They make the windows/startmenu/taskbar fully blacked out on top. I do not remember some of these as I applied them a long time ago. These are all necessary to change them. To use colors other than black, you can use [https://www.w3schools.com/colors/colors\_picker.asp](https://www.w3schools.com/colors/colors_picker.asp)   
