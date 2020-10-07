@@ -11,7 +11,8 @@ Put this in a .bat file and run it when you want to restart:
   > pause  
   > shutdown /r /t 0  
 
-  To download if you are too lazy (You are safe, do not worry): Go to "Code" (Green), then "Download ZIP" It will be in files\refreshWin.bat
+  To download if you are too lazy (You are safe, do not worry, but check anyways): Go to "Code" (Green), then "Download ZIP" It will be in files\refreshWin.bat
+  To check the code, right click and press edit. The text inside should be the same displayed here.
 
 # Have the personalization back on control panel:
 [https://winaero.com/personalization-control-panel-windows-10/](https://winaero.com/personalization-control-panel-windows-10/)  
