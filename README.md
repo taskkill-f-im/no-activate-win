@@ -8,7 +8,7 @@ When you want to game, just run this and the watermark won't be there when you p
 Put this in cmd and run it when you want to restart:
   >  taskkill /f /im explorer.exe  
   >  start explorer.exe  
-  >  pause
+  >  pause  
   >  shutdown /r /t 0  
 
 # Have the personalization back on control panel:
