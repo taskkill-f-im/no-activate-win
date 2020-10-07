@@ -40,9 +40,9 @@ Change **"LockScreenImage"** = whatever path you want, put it quotes
 **"RotatingLockScreenEnabled"** = 0  
 **"RotatingLockScreenOverlayEnabled"** = 0  
 
-* Make wallpaper at 100% quality (default is 75% quality, yea Microsoft is crazy)
-  1. \[HKEY\_CURRENT\_USER\\Control Panel\\Desktop\]
-  2. Change **"JPEGImportQuality"** to 64 (hex for 100)
+* Make wallpaper at 100% quality (default is 75% quality, yea Microsoft is crazy)  
+  \[HKEY\_CURRENT\_USER\\Control Panel\\Desktop\]  
+  Change **"JPEGImportQuality"** to 64 (hex for 100)
 
 * Dark mode:  
   [HKEY\_CURRENT\_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Themes\\Personalize\]  
