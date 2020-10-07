@@ -19,7 +19,8 @@ To check its contents, right click and press edit. The text inside should be the
 
 
 # Registry Edits:
-Open start menu, type 'regedit', press enter, **if some keys do not exist for you, right-click and create a new DWORD containing the "key." The keys have to be spelled correctly and capitalized where shown. (The keys are the things we have to change. In this post, they will be bolded and in quotations for easier to read format)**
+To open regedit: Open start menu, type 'regedit', press enter. 
+**If some keys do not exist for you, right-click and create a new DWORD containing the "key." The keys have to be spelled correctly and capitalized where shown. (The keys are the things we have to change. In this post, they will be bolded and in quotations for easier to read format)**
 ![](https://github.com/taskkill-f-im/no-activate-win/blob/main/files/regedit_add_new.png)
 
 **Some changes are not instant, you have to restart. You can restart after you made all the changes. Even though the chances of you breaking your computer are low, I have to say be careful.**
