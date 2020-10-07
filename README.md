@@ -5,7 +5,7 @@ Do not get overwhelmed by this. It is easy and saves you $100.
 I find the watermark comes back after 5 hours, but I don't notice it unless I watch something on fullscreen  
 When you want to game, just run this and the watermark won't be there when you play fullscreen.  
   
-Put this in cmd and run it when you want to restart:
+Put this in a .bat file and run it when you want to restart:
   >  taskkill /f /im explorer.exe  
   >  start explorer.exe  
   >  pause  
