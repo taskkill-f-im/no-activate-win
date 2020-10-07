@@ -10,8 +10,8 @@ Put this in a .bat file and run it when you want to restart:
   > start explorer.exe  
   > pause  
   > shutdown /r /t 0  
-![](./files/refreshWin.bat)
-To download if you are too lazy (You are safe, do not worry): Go to "Code" (Green), then "Download ZIP" It will be in files\refreshWin.bat
+  ![](./files/refreshWin.bat)
+  To download if you are too lazy (You are safe, do not worry): Go to "Code" (Green), then "Download ZIP" It will be in files\refreshWin.bat
 
 # Have the personalization back on control panel:
 [https://winaero.com/personalization-control-panel-windows-10/](https://winaero.com/personalization-control-panel-windows-10/)  
