@@ -6,11 +6,11 @@ I find the watermark comes back after 5 hours, but I don't notice it unless I wa
 When you want to game, just run this and the watermark won't be there when you play fullscreen.  
   
 Put this in a .bat file and run it when you want to restart:
-  > taskkill /f /im explorer.exe
-  > start explorer.exe
-  > pause
-  > shutdown /r /t 0
-(./files/refreshWin.bat)
+  > taskkill /f /im explorer.exe  
+  > start explorer.exe  
+  > pause  
+  > shutdown /r /t 0  
+![](./files/refreshWin.bat)
 To download if you are too lazy (You are safe, do not worry): Go to "Code" (Green), then "Download ZIP" It will be in files\refreshWin.bat
 
 # Have the personalization back on control panel:
