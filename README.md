@@ -15,6 +15,7 @@ Put this in a .bat file and run it when you want to restart:
 To check its contents, right click and press edit. The text inside should be the same displayed here.
 
 # Have the personalization back on control panel:
+Actually, most of the settings are available here but I found it pretty buggy. I don't think you can change the taskbar and accent color with this though. 
 [https://winaero.com/personalization-control-panel-windows-10/](https://winaero.com/personalization-control-panel-windows-10/)  
 
 
@@ -34,9 +35,10 @@ If you are more advanced, you can find the default windows image at "C:\\Windows
 * Change lock screen image:
   1. Go to \[HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Personalization\]  
 Change **"LockScreenImage"** = whatever path you want, put it quotes   
-  2. \[HKEY\_CURRENT\_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Lock Screen\]  
+* Bonus: Disable Windows Spotlight 
+  1. \[HKEY\_CURRENT\_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Lock Screen\]  
 **"SlideshowEnabled"** = 0  
-  3. \[HKEY\_CURRENT\_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager\]  
+  2. \[HKEY\_CURRENT\_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager\]  
 **"RotatingLockScreenEnabled"** = 0  
 **"RotatingLockScreenOverlayEnabled"** = 0  
 
