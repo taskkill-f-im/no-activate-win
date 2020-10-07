@@ -20,14 +20,14 @@ To check its contents, right click and press edit. The text inside should be the
 
 # Registry Edits:
 To open regedit: Open start menu, type 'regedit', press enter.   
-**If some keys do not exist for you, right-click and create a new DWORD containing the "key." The keys have to be spelled correctly and capitalized where shown. (The keys are the things we have to change. In this post, they will be bolded and in quotations for easier to read format)**
+**If some keys do not exist for you, right-click and create a new DWORD containing the "key." The keys have to be spelled correctly and capitalized where shown. (The keys are the things we have to change. In this post, they will be bolded and in quotations for easier to read format). Changing the key means to change the 'Value Data'.**
 ![](https://github.com/taskkill-f-im/no-activate-win/blob/main/files/regedit_add_new.png)
 
 **Some changes are not instant, you have to restart. You can restart after you made all the changes. Even though the chances of you breaking your computer are low, I have to say be careful.**
 
 * Change wallpaper location:
 1. Go to \[HKEY\_CURRENT\_USER\\Control Panel\\Desktop\]
-2. Find the key named **"Wallpaper"** and change it to whatever path your image is, put it in quotes.
+2. Find the key named **"Wallpaper"** and change 'Value Data' to whatever path your image is, put it in quotes.
 3. May need to restart.  
 If you are more advanced, you can find the default windows image at "C:\\Windows\\Web\\Wallpaper\\Windows\\img0.jpg", take ownership of the file (Winaero Tweaker provides an easy guide to do this), modify its content using mspaint (copy & paste is probably the easiest)
 ![](https://github.com/taskkill-f-im/no-activate-win/blob/main/files/regedit_example.PNG)
