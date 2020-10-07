@@ -35,7 +35,7 @@ If you are more advanced, you can find the default windows image at "C:\\Windows
 * Change lock screen image:
   1. Go to \[HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\Personalization\]  
 Change **"LockScreenImage"** = whatever path you want, put it quotes   
-If that didn't work, this article worked for me, **look at the post with 20 upvotes**: [https://superuser.com/questions/1126403/what-is-the-location-of-lock-screen-images-on-windows-10](https://superuser.com/questions/1126403/what-is-the-location-of-lock-screen-images-on-windows-10)
+If that didn't work, this article helped, **the post with 20 upvotes worked for me**: [https://superuser.com/questions/1126403/what-is-the-location-of-lock-screen-images-on-windows-10](https://superuser.com/questions/1126403/what-is-the-location-of-lock-screen-images-on-windows-10)
 * Bonus: Disable Windows Spotlight 
   1. \[HKEY\_CURRENT\_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Lock Screen\]  
 **"SlideshowEnabled"** = 0  
