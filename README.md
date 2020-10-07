@@ -27,8 +27,7 @@ To open regedit: Open start menu, type 'regedit', press enter.
 
 * Change wallpaper location:
   1. Go to \[HKEY\_CURRENT\_USER\\Control Panel\\Desktop\]
-  2. Find the key named **"Wallpaper"** and change 'Value Data' to whatever path your image is, put it in quotes.
-  3. May need to restart.  
+  2. Find the key named **"Wallpaper"** and change 'Value Data' to whatever path your image is, put it in quotes.  
 If you are more advanced, you can find the default windows image at "C:\\Windows\\Web\\Wallpaper\\Windows\\img0.jpg", take ownership of the file (Winaero Tweaker provides an easy guide to do this), modify its content using mspaint (copy & paste is probably the easiest)
 ![](https://github.com/taskkill-f-im/no-activate-win/blob/main/files/regedit_example.PNG)
 
